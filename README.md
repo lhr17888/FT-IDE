@@ -1,6 +1,6 @@
-# IncDE
+# FT-IDE
 
-The codes and datasets for "Towards Continual Knowledge Graph Embedding via Incremental Distillation" [AAAI 2024].
+The codes and datasets for "Towards Continual Knowledge Graph Embedding via Full Triplets Incremental Distillation".
 
 ## Framework
 
@@ -11,7 +11,7 @@ The codes and datasets for "Towards Continual Knowledge Graph Embedding via Incr
 The structure of the folder is shown below:
 
 ```csharp
- IncDE
+ FT-IDE
  ├─checkpoint
  ├─data
  ├─logs
